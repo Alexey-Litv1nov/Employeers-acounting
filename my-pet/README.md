@@ -1,5 +1,5 @@
-#for start:
-
-cd my-pet
-npm i
-npm start
+for start:
+------------------
+* cd my-pet
+* npm i
+* npm start
